@@ -1,0 +1,62 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "filename" : "AppIcon_20x20.png",
+      "size" : "20x20"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "filename" : "AppIcon_20x20_3.png",
+      "size" : "20x20"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "filename" : "AppIcon_29x29.png",
+      "size" : "29x29"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "filename" : "AppIcon_29x29_3.png",
+      "size" : "29x29"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "filename" : "AppIcon_40x40.png",
+      "size" : "40x40"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "filename" : "AppIcon_40x40_3.png",
+      "size" : "40x40"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "filename" : "AppIcon_60x60.png",
+      "size" : "60x60"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "filename" : "AppIcon_60x60_3.png",
+      "size" : "60x60"
+    },
+    {
+      "idiom" : "ios-marketing",
+      "scale" : "1x",
+      "filename" : "AppIcon_1024x1024.png",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "BlackHorse",
+    "version" : 1
+  }
+}
