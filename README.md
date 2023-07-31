@@ -5,7 +5,7 @@ Personal todo-list manager using voice. Purpose is to eliminate the need to **ty
 ## Instructions
 
 Commands are:
-- `create`: Changes name of list.
+- `create [item]`: Changes name of list to `item`.
 - `add [item]`: Adds `item` to list.
 - `remove [item]`: Removes `item` to list.
 - `clear`: Clears list.
